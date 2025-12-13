@@ -7,7 +7,7 @@ interface SEOProps {
 }
 
 export default function SEO({ title, description, path }: SEOProps) {
-  const siteTitle = 'Consultoría TIC & Gen AI'
+  const siteTitle = 'Exponential Grow'
   const siteDescription =
     'Desarrollo web, agentes de IA, bases de datos y Gen AI para educación y marketing. Soluciones personalizadas que impulsan tu negocio.'
   const siteUrl = 'https://tudominio.com'

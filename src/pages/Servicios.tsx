@@ -26,7 +26,7 @@ export default function Servicios() {
             className="text-center max-w-3xl mx-auto"
           >
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 tracking-tight">
-              <span className="text-blue-700">Mis Servicios</span>
+              <span className="text-primary-400">Mis Servicios</span>
             </h1>
             <p className="text-lg text-gray-300 leading-relaxed">
               Soluciones tecnológicas personalizadas para impulsar tu negocio.

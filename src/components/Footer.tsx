@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-gray-100 text-lg font-bold mb-4">Consultoría TIC & Gen AI</h3>
+            <h3 className="text-gray-100 text-lg font-bold mb-4">Exponential Grow. Tic & Gen AI</h3>
             <p className="text-sm mb-4">
               Transformando ideas en soluciones tecnológicas. Desarrollo web, agentes de IA, 
               datos y Gen AI para educación y marketing.
@@ -57,7 +57,7 @@ export default function Footer() {
         </div>
         
         <div className="mt-8 pt-8 border-t border-white/10 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} Consultoría TIC & Gen AI. Todos los derechos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} Exponential Grow. Tic & Gen AI. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
